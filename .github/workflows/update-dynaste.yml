@@ -1,0 +1,46 @@
+name: Update Dynaste inventory
+
+on:
+  schedule:
+    - cron: "30 */6 * * *"   # every 6 hours
+  workflow_dispatch:          # lets you click "Run workflow" manually
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-dynaste
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install requests beautifulsoup4
+
+      - name: Build Dynaste inventory
+        run: python update_dynaste.py
+
+      - name: Commit changes
+        run: |
+          git config user.name "inventory-bot"
+          git config user.email "inventory-bot@users.noreply.github.com"
+          git add dynaste_sunshine_inventory.json
+          if git diff --cached --quiet; then
+            echo "No changes to commit"
+            exit 0
+          fi
+          git commit -m "Update Dynaste inventory"
+          for i in 1 2 3; do
+            git pull --rebase && git push && exit 0
+            sleep 15
+          done
+          exit 1
