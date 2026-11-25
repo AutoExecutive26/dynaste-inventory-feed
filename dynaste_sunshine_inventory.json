@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-24T07:52:20.391623+00:00",
+  "updated_at": "2026-11-25T19:25:31.381154+00:00",
   "count": 86,
   "vehicles": [
     {
@@ -460,38 +460,6 @@
       "url": "https://sunshineautobrokers.com/legacy/view/6212"
     },
     {
-      "id": "ss-6109",
-      "title": "2006 Chevrolet Cobalt",
-      "year": 2006,
-      "make": "Chevrolet",
-      "model": "Cobalt",
-      "mileage": 67011,
-      "category": "Cars",
-      "photos": [
-        "https://sunshineautobrokers.com/service/picture/36641/6109/17d4f13687f37290a3d2073360fee76d28744613",
-        "https://sunshineautobrokers.com/service/picture/36641/6109/5827b36b2ef65987de4105ccee7e78b76ddbb252",
-        "https://sunshineautobrokers.com/service/picture/36641/6109/d02308b86e059591597418693f4b8a8c50a62a9c",
-        "https://sunshineautobrokers.com/service/picture/36641/6109/a75454e79351801ee6f52871c1429a1b200fb5e8",
-        "https://sunshineautobrokers.com/service/picture/36641/6109/fb7fa8cde9aa4ee75b1f6dcce8998df7ef09d183",
-        "https://sunshineautobrokers.com/service/picture/36641/6109/bd19c57c1436bcc09258eaff124e1cca60fd4773",
-        "https://sunshineautobrokers.com/service/picture/36641/6109/25868497ab55d18e3558da541c7ab94c1861429e",
-        "https://sunshineautobrokers.com/service/picture/36641/6109/f7d6c09d32b2a9e28452c0d9210dd066ce3a76b7",
-        "https://sunshineautobrokers.com/service/picture/36641/6109/0a6a406db07505fca06f665fe6f68bad3a421c2b",
-        "https://sunshineautobrokers.com/service/picture/36641/6109/ac9bff812c88951f67d626824ac4677d51ab73a0",
-        "https://sunshineautobrokers.com/service/picture/36641/6109/49844b2a9bacc871f5cc7fbf4e3fe94a329b6112",
-        "https://sunshineautobrokers.com/service/picture/36641/6109/82149b706db1005c4843f6dd3e99735927b68f84",
-        "https://sunshineautobrokers.com/service/picture/36641/6109/cffe0da16793cf14b91374d8bc04c4b82a2811b1",
-        "https://sunshineautobrokers.com/service/picture/36641/6109/89ef3195a734e285521dbf97ee160b66567f2b62",
-        "https://sunshineautobrokers.com/service/picture/36641/6109/425b0b6fb935e081b7bf4fdb3cca44d4bfdb89ec",
-        "https://sunshineautobrokers.com/service/picture/36641/6109/69fc034410ede878ee7ff1474ed09ef3045b93eb",
-        "https://sunshineautobrokers.com/service/picture/36641/6109/25f3674bb525e0a1e3b689a09bd601d8160ac17f",
-        "https://sunshineautobrokers.com/service/picture/36641/6109/5b532e66b77e3e8ff0f22ec9c0b03d66bd1057ec",
-        "https://sunshineautobrokers.com/service/picture/36641/6109/027e5fb3b112d52375b963f1450cb6ea4fd6459b",
-        "https://sunshineautobrokers.com/service/picture/36641/6109/b50f74611935fcc6116a25b9de93dc82e1794cd9"
-      ],
-      "url": "https://sunshineautobrokers.com/legacy/view/6109"
-    },
-    {
       "id": "ss-6122",
       "title": "2006 Chevrolet Cobalt",
       "year": 2006,
@@ -522,6 +490,38 @@
         "https://sunshineautobrokers.com/service/picture/36641/6122/1910259dc1f69b6f668eb88e1c4df0afc0e0a8cc"
       ],
       "url": "https://sunshineautobrokers.com/legacy/view/6122"
+    },
+    {
+      "id": "ss-6109",
+      "title": "2006 Chevrolet Cobalt",
+      "year": 2006,
+      "make": "Chevrolet",
+      "model": "Cobalt",
+      "mileage": 67011,
+      "category": "Cars",
+      "photos": [
+        "https://sunshineautobrokers.com/service/picture/36641/6109/17d4f13687f37290a3d2073360fee76d28744613",
+        "https://sunshineautobrokers.com/service/picture/36641/6109/5827b36b2ef65987de4105ccee7e78b76ddbb252",
+        "https://sunshineautobrokers.com/service/picture/36641/6109/d02308b86e059591597418693f4b8a8c50a62a9c",
+        "https://sunshineautobrokers.com/service/picture/36641/6109/a75454e79351801ee6f52871c1429a1b200fb5e8",
+        "https://sunshineautobrokers.com/service/picture/36641/6109/fb7fa8cde9aa4ee75b1f6dcce8998df7ef09d183",
+        "https://sunshineautobrokers.com/service/picture/36641/6109/bd19c57c1436bcc09258eaff124e1cca60fd4773",
+        "https://sunshineautobrokers.com/service/picture/36641/6109/25868497ab55d18e3558da541c7ab94c1861429e",
+        "https://sunshineautobrokers.com/service/picture/36641/6109/f7d6c09d32b2a9e28452c0d9210dd066ce3a76b7",
+        "https://sunshineautobrokers.com/service/picture/36641/6109/0a6a406db07505fca06f665fe6f68bad3a421c2b",
+        "https://sunshineautobrokers.com/service/picture/36641/6109/ac9bff812c88951f67d626824ac4677d51ab73a0",
+        "https://sunshineautobrokers.com/service/picture/36641/6109/49844b2a9bacc871f5cc7fbf4e3fe94a329b6112",
+        "https://sunshineautobrokers.com/service/picture/36641/6109/82149b706db1005c4843f6dd3e99735927b68f84",
+        "https://sunshineautobrokers.com/service/picture/36641/6109/cffe0da16793cf14b91374d8bc04c4b82a2811b1",
+        "https://sunshineautobrokers.com/service/picture/36641/6109/89ef3195a734e285521dbf97ee160b66567f2b62",
+        "https://sunshineautobrokers.com/service/picture/36641/6109/425b0b6fb935e081b7bf4fdb3cca44d4bfdb89ec",
+        "https://sunshineautobrokers.com/service/picture/36641/6109/69fc034410ede878ee7ff1474ed09ef3045b93eb",
+        "https://sunshineautobrokers.com/service/picture/36641/6109/25f3674bb525e0a1e3b689a09bd601d8160ac17f",
+        "https://sunshineautobrokers.com/service/picture/36641/6109/5b532e66b77e3e8ff0f22ec9c0b03d66bd1057ec",
+        "https://sunshineautobrokers.com/service/picture/36641/6109/027e5fb3b112d52375b963f1450cb6ea4fd6459b",
+        "https://sunshineautobrokers.com/service/picture/36641/6109/b50f74611935fcc6116a25b9de93dc82e1794cd9"
+      ],
+      "url": "https://sunshineautobrokers.com/legacy/view/6109"
     },
     {
       "id": "ss-6039",
