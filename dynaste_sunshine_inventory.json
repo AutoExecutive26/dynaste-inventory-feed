@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-25T19:25:31.381154+00:00",
+  "updated_at": "2026-11-26T01:50:27.484574+00:00",
   "count": 86,
   "vehicles": [
     {
@@ -987,13 +987,28 @@
     },
     {
       "id": "ss-5998",
-      "title": "1995 Dodge Ram 1500",
+      "title": "1995 Dodge Ram 1500 – Classic American Pickup",
       "year": 1995,
       "make": "Dodge",
-      "model": "Ram 1500",
+      "model": "Ram 1500 – Classic American Pickup",
       "mileage": 172901,
       "category": "Trucks",
-      "photos": [],
+      "photos": [
+        "https://sunshineautobrokers.com/service/picture/36641/5998/50a0e410dc7604c0e3974ad4e4166ef08d706093",
+        "https://sunshineautobrokers.com/service/picture/36641/5998/fc07241ac9014d51c0cd716dd1351ce8892b4963",
+        "https://sunshineautobrokers.com/service/picture/36641/5998/67069d462158df6837a9488246973a8bb8ad6cb0",
+        "https://sunshineautobrokers.com/service/picture/36641/5998/e2f36c9e1f8b679595b35dd9336e6a60e3b66d61",
+        "https://sunshineautobrokers.com/service/picture/36641/5998/9e574377fc96c906eb4a837029f2713baf162ee7",
+        "https://sunshineautobrokers.com/service/picture/36641/5998/565a72918be00d2d153aa1302f8d5ddce5a686c5",
+        "https://sunshineautobrokers.com/service/picture/36641/5998/7ed98274d5eab8e8f28eecefaedab6fe67c13506",
+        "https://sunshineautobrokers.com/service/picture/36641/5998/cbc1267d9827adc04ba64eb799b584832df10566",
+        "https://sunshineautobrokers.com/service/picture/36641/5998/37efba420e8eb5b2240888d3ea13db020d88d88c",
+        "https://sunshineautobrokers.com/service/picture/36641/5998/89114074c30928b19b2f9f3aea7904acef447779",
+        "https://sunshineautobrokers.com/service/picture/36641/5998/109edbfdc278d1bf7c57ace555bb2d3cd8316249",
+        "https://sunshineautobrokers.com/service/picture/36641/5998/cdc3785d6f52ee1346223b14f7a4401941bfede7",
+        "https://sunshineautobrokers.com/service/picture/36641/5998/a4a4fb622898defb3e2b37ce12b9b6b89f50f570",
+        "https://sunshineautobrokers.com/service/picture/36641/5998/3ceea3127c01f202a2d4b81cfa897ac1f90537e6"
+      ],
       "url": "https://sunshineautobrokers.com/legacy/view/5998"
     },
     {
