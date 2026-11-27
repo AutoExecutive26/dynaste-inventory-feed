@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-26T01:50:27.484574+00:00",
-  "count": 86,
+  "updated_at": "2026-11-27T19:27:12.152919+00:00",
+  "count": 84,
   "vehicles": [
     {
       "id": "ss-6224",
@@ -460,38 +460,6 @@
       "url": "https://sunshineautobrokers.com/legacy/view/6212"
     },
     {
-      "id": "ss-6122",
-      "title": "2006 Chevrolet Cobalt",
-      "year": 2006,
-      "make": "Chevrolet",
-      "model": "Cobalt",
-      "mileage": 129796,
-      "category": "Cars",
-      "photos": [
-        "https://sunshineautobrokers.com/service/picture/36641/6122/487e82815a868c45603406c7b2951383aaed5d9c",
-        "https://sunshineautobrokers.com/service/picture/36641/6122/b2c9af0b7a5b9b75c9878931eec89b64d13f3b92",
-        "https://sunshineautobrokers.com/service/picture/36641/6122/94e255c8f4915302a3ac4dc3962c179b843c6ea7",
-        "https://sunshineautobrokers.com/service/picture/36641/6122/f0b15dafef4a5c2f9ac8d7cd58d56574ad8f3a63",
-        "https://sunshineautobrokers.com/service/picture/36641/6122/f4308ddd0611840bd166fb822027906d8c5c4183",
-        "https://sunshineautobrokers.com/service/picture/36641/6122/b4e32ac9dc17f8035ff35ebd1d21cbbe156040b6",
-        "https://sunshineautobrokers.com/service/picture/36641/6122/ba9928c52a196fe18e912fae20e0bc18a2516055",
-        "https://sunshineautobrokers.com/service/picture/36641/6122/55f791349bf1fd1fe52f140203f32bc5d475966c",
-        "https://sunshineautobrokers.com/service/picture/36641/6122/fec5f5696ba0cb0e7a579cd71505a3fdee7208ec",
-        "https://sunshineautobrokers.com/service/picture/36641/6122/73dab134632530bcfa47dac8896fdfc19a35aafc",
-        "https://sunshineautobrokers.com/service/picture/36641/6122/5d9a1d000e259489e2aef9365b9db0ed00818cc6",
-        "https://sunshineautobrokers.com/service/picture/36641/6122/cbc8aae9c64a0e1f341f071535c94d5e1205e106",
-        "https://sunshineautobrokers.com/service/picture/36641/6122/12385fd45a494782cd0dcf3f3de8286625eab646",
-        "https://sunshineautobrokers.com/service/picture/36641/6122/8c38533f431333dd7e0aee6fc69bb9986e03a360",
-        "https://sunshineautobrokers.com/service/picture/36641/6122/ec0e4ba119a4e3b5c167e28fb2d1e1f693e0d0a8",
-        "https://sunshineautobrokers.com/service/picture/36641/6122/27e0e1c520a579e8b26c6c99af54129e085f50ef",
-        "https://sunshineautobrokers.com/service/picture/36641/6122/5213d5f4796c1bb12c82b7cb74dee1f1378ae9e2",
-        "https://sunshineautobrokers.com/service/picture/36641/6122/3f27e73d4eec873333e48b757c7e925ea858619e",
-        "https://sunshineautobrokers.com/service/picture/36641/6122/2bd557a5ab64b5a8fd9afc55e597a94da3edebb7",
-        "https://sunshineautobrokers.com/service/picture/36641/6122/1910259dc1f69b6f668eb88e1c4df0afc0e0a8cc"
-      ],
-      "url": "https://sunshineautobrokers.com/legacy/view/6122"
-    },
-    {
       "id": "ss-6109",
       "title": "2006 Chevrolet Cobalt",
       "year": 2006,
@@ -522,6 +490,38 @@
         "https://sunshineautobrokers.com/service/picture/36641/6109/b50f74611935fcc6116a25b9de93dc82e1794cd9"
       ],
       "url": "https://sunshineautobrokers.com/legacy/view/6109"
+    },
+    {
+      "id": "ss-6122",
+      "title": "2006 Chevrolet Cobalt",
+      "year": 2006,
+      "make": "Chevrolet",
+      "model": "Cobalt",
+      "mileage": 129796,
+      "category": "Cars",
+      "photos": [
+        "https://sunshineautobrokers.com/service/picture/36641/6122/487e82815a868c45603406c7b2951383aaed5d9c",
+        "https://sunshineautobrokers.com/service/picture/36641/6122/b2c9af0b7a5b9b75c9878931eec89b64d13f3b92",
+        "https://sunshineautobrokers.com/service/picture/36641/6122/94e255c8f4915302a3ac4dc3962c179b843c6ea7",
+        "https://sunshineautobrokers.com/service/picture/36641/6122/f0b15dafef4a5c2f9ac8d7cd58d56574ad8f3a63",
+        "https://sunshineautobrokers.com/service/picture/36641/6122/f4308ddd0611840bd166fb822027906d8c5c4183",
+        "https://sunshineautobrokers.com/service/picture/36641/6122/b4e32ac9dc17f8035ff35ebd1d21cbbe156040b6",
+        "https://sunshineautobrokers.com/service/picture/36641/6122/ba9928c52a196fe18e912fae20e0bc18a2516055",
+        "https://sunshineautobrokers.com/service/picture/36641/6122/55f791349bf1fd1fe52f140203f32bc5d475966c",
+        "https://sunshineautobrokers.com/service/picture/36641/6122/fec5f5696ba0cb0e7a579cd71505a3fdee7208ec",
+        "https://sunshineautobrokers.com/service/picture/36641/6122/73dab134632530bcfa47dac8896fdfc19a35aafc",
+        "https://sunshineautobrokers.com/service/picture/36641/6122/5d9a1d000e259489e2aef9365b9db0ed00818cc6",
+        "https://sunshineautobrokers.com/service/picture/36641/6122/cbc8aae9c64a0e1f341f071535c94d5e1205e106",
+        "https://sunshineautobrokers.com/service/picture/36641/6122/12385fd45a494782cd0dcf3f3de8286625eab646",
+        "https://sunshineautobrokers.com/service/picture/36641/6122/8c38533f431333dd7e0aee6fc69bb9986e03a360",
+        "https://sunshineautobrokers.com/service/picture/36641/6122/ec0e4ba119a4e3b5c167e28fb2d1e1f693e0d0a8",
+        "https://sunshineautobrokers.com/service/picture/36641/6122/27e0e1c520a579e8b26c6c99af54129e085f50ef",
+        "https://sunshineautobrokers.com/service/picture/36641/6122/5213d5f4796c1bb12c82b7cb74dee1f1378ae9e2",
+        "https://sunshineautobrokers.com/service/picture/36641/6122/3f27e73d4eec873333e48b757c7e925ea858619e",
+        "https://sunshineautobrokers.com/service/picture/36641/6122/2bd557a5ab64b5a8fd9afc55e597a94da3edebb7",
+        "https://sunshineautobrokers.com/service/picture/36641/6122/1910259dc1f69b6f668eb88e1c4df0afc0e0a8cc"
+      ],
+      "url": "https://sunshineautobrokers.com/legacy/view/6122"
     },
     {
       "id": "ss-6039",
@@ -2001,38 +2001,6 @@
       "url": "https://sunshineautobrokers.com/legacy/view/6168"
     },
     {
-      "id": "ss-6188",
-      "title": "2016 Ram 2500",
-      "year": 2016,
-      "make": "Ram",
-      "model": "2500",
-      "mileage": 234011,
-      "category": "Trucks",
-      "photos": [
-        "https://sunshineautobrokers.com/service/picture/36641/6188/b7da0aa773cb3e182cfbce46810322be1a756655",
-        "https://sunshineautobrokers.com/service/picture/36641/6188/2b0ae9114231fcbb571af0f0178e2337203cc48a",
-        "https://sunshineautobrokers.com/service/picture/36641/6188/3128ddebcd79087452498e6b71c39ad0127941df",
-        "https://sunshineautobrokers.com/service/picture/36641/6188/13d52461c54221101216418141d2e368293346a1",
-        "https://sunshineautobrokers.com/service/picture/36641/6188/4e0f00e71ec0a09388c4fc87394e74cd3da4c606",
-        "https://sunshineautobrokers.com/service/picture/36641/6188/196e7527bcf4f50f1963680dfbfbdc46e71e979d",
-        "https://sunshineautobrokers.com/service/picture/36641/6188/5c9b6d5ec1bfa8697ed44a57c0c72e93b02a4d3f",
-        "https://sunshineautobrokers.com/service/picture/36641/6188/f3c0a64e479ca45c5af5d88299b6a17d9bb16682",
-        "https://sunshineautobrokers.com/service/picture/36641/6188/6e76b8a81406a6a367143fae32e9180498068b0a",
-        "https://sunshineautobrokers.com/service/picture/36641/6188/3a71f9f7385cf4b1676e7c2e52000ce3dc495ce0",
-        "https://sunshineautobrokers.com/service/picture/36641/6188/ebb18f5d271211897d2147e4ebee5311f699681b",
-        "https://sunshineautobrokers.com/service/picture/36641/6188/f031891f3a82df246f60838c2e4fdf8f13151bb6",
-        "https://sunshineautobrokers.com/service/picture/36641/6188/01c2200634def949a233d088f305e667c2dc736c",
-        "https://sunshineautobrokers.com/service/picture/36641/6188/6cd8885c76095b785eca8a41cb71c0d03c84846f",
-        "https://sunshineautobrokers.com/service/picture/36641/6188/2a160b5100129bbbd57f29ab779586ba33fbd648",
-        "https://sunshineautobrokers.com/service/picture/36641/6188/2e623f020a62e4afcc33e34913312f1be124b416",
-        "https://sunshineautobrokers.com/service/picture/36641/6188/e39c13998b6381d1ed173b2ddf205d5b146f98a9",
-        "https://sunshineautobrokers.com/service/picture/36641/6188/f8a4cdd6cba85c81568d4e42ce7cde2337d20262",
-        "https://sunshineautobrokers.com/service/picture/36641/6188/d32248b8a1a683d4486332260499598fc88ca5ef",
-        "https://sunshineautobrokers.com/service/picture/36641/6188/1c9a12635aac3d5908e2c24617b5015a4daa0cdc"
-      ],
-      "url": "https://sunshineautobrokers.com/legacy/view/6188"
-    },
-    {
       "id": "ss-6214",
       "title": "2016 Ram 3500 Laramie Crew Cab 4x4 Dually",
       "year": 2016,
@@ -2458,17 +2426,6 @@
         "https://sunshineautobrokers.com/service/picture/36641/6066/b339ced41d89ee08726c695d8ddb2a13cfbd52e8"
       ],
       "url": "https://sunshineautobrokers.com/legacy/view/6066"
-    },
-    {
-      "id": "ss-6210",
-      "title": "2010 Volkswagen Jetta",
-      "year": 2010,
-      "make": "Volkswagen",
-      "model": "Jetta",
-      "mileage": 162097,
-      "category": "Cars",
-      "photos": [],
-      "url": "https://sunshineautobrokers.com/legacy/view/6210"
     },
     {
       "id": "ss-6084",
